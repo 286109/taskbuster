@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marina Mele -- Tutorial creator -- @marina_mele
+    286109 -- copypaster
 
 # THANKS
 
-    <name>
+    Django team and Marina Mele for great tutorial
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Django 2
+    HTML5 Boileplate
+    Twitter Bootstrap
