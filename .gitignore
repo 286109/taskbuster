@@ -3,3 +3,5 @@ geckodriver.log
 secrets.json
 db.sqlite3
 __pycache__
+.coverage
+htmlcov
